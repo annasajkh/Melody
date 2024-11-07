@@ -2,8 +2,7 @@
     --item-color: #19202a;
     --background-color: #1e2531;
     --item-hover-color: #222a35;
-    --border-color: #30363d;
-    --border-color-focused: #363d44;
+    --border-color: #363d44;
 
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     line-height: 1.5;
