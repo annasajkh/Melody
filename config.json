@@ -1,0 +1,6 @@
+{
+  "ProjectName": "Melody",
+  "DotnetVersion": "net8",
+  "FrontendName": "melody-frontend",
+  "BackendName": "Melody"
+}
